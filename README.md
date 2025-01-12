@@ -1,7 +1,3 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
 # Projeto EBOOK Gerado por I.A.s
 
 ## 💻 Tecnologias utilizadas no projeto
